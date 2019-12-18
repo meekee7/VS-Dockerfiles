@@ -1,6 +1,8 @@
-Dockerfiles for installing running VS Build Tools in a Windows container
+### Dockerfiles for installing and running VS Build Tools in a Windows container
 
 Note that creating the containers can take several hours, and these containers easily require 10GB+ of disk space.
+
+#### References
 
 Dockerfiles based on these tutorials by Microsoft:
 * VS2017: https://docs.microsoft.com/en-us/visualstudio/install/build-tools-container?view=vs-2017
